@@ -1,0 +1,29 @@
+{
+  "name": "rm_hour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSmir/rm_hour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewSmir/rm_hour/issues"
+  },
+  "homepage": "https://github.com/AndrewSmir/rm_hour#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@types/jest": "^26.0.20",
+    "babel-jest": "^26.6.3"
+  }
+}
