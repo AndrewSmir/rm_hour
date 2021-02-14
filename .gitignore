@@ -8,6 +8,7 @@
 # testing
 /coverage
 
+#/
 # production
 /build
 
@@ -23,3 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 
 /.idea
+/dist/

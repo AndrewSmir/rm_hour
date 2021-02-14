@@ -1,0 +1,11 @@
+@import "~normalize.css";
+@import "fonts.css";
+
+.container {
+    margin: 0 auto;
+    width: 1024px;
+    font-family: "Roboto";
+}
+.red {
+    background-color: red;
+}

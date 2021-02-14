@@ -1,4 +1,4 @@
-const promisify = require('../promisify')
+const promisify = require('../src/promisify')
 const fs = require('fs')
 const writeFile = fs.writeFile
 const readFile = fs.readFile

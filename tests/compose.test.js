@@ -1,4 +1,4 @@
-const compose = require('../compose')
+const compose = require('../src/compose')
 
 describe('Compose work with different types', ()=>{
     test('Number', ()=>{
