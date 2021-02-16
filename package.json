@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "webpack serve --mode development --open",
-    "dev": "webpack --mode development --watch",
+    "dev": "webpack --mode development",
     "lint:fix": "eslint src/**/*.{js,ts} --fix"
   },
   "repository": {
