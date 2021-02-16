@@ -51,7 +51,7 @@ class ComposeRunner {
 
   createContainer = (): void => {
     const composeContainer = `<div id="composeContainer" class="container"></div>`;
-    document.body.innerHTML = composeContainer;
+    document.body.insertAdjacentHTML("beforeend", composeContainer);
   };
   createResultField = (): void => {
     const resultField = `<div id="resultField" class="result"></div>`;
